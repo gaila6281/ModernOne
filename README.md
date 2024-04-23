@@ -3,7 +3,8 @@
 ## ModernOne 介绍
 ModernOne是一家专注于亚洲市场的VPS服务器提供商，位于吉隆坡的AIMS数据中心。ModernOne以其高性能的服务器、合理的价格以及友好的客户服务著称。此外，ModernOne还提供反向DNS服务、免费网站迁移支持以及IP空间广告服务。
 
-![Uploading image.png…]()
+![image](https://github.com/gaila6281/ModernOne/assets/167613363/b7ec13d1-fa3f-4bf7-83d2-36bba621140e)
+
 
 ## ModernOne 官网地址
 [https://www.nocser.net](https://www.nocser.net/clients/aff.php?aff=188)
